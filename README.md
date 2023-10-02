@@ -1,7 +1,7 @@
 ### Hi there 👋
  I'm Satyam kumar, I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am a+front end+developer;exploring +new+technology)](https://git.io/typing-svg)
 
 
  
